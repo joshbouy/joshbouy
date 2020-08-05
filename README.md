@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate on any platform!
 - 🤔 I’m looking for help with any web related things.
-- 📫 How to reach me: [email](mailto:jbaylasy@hotmail.com) , discord - Josh #0820
+- 📫 How to reach me: [email](mailto:jbaylasy@hotmail.com) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have one fan
 
