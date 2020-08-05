@@ -22,7 +22,6 @@
 <br/>
 <br/>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [personal projects](https://github.com/joshbouy).
 - 🌱 I’m currently learning Javascript.
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have one fan
 
-## Peep My Stats 💕  
+#### Peep My Stats 💕  
 
 <a href="https://github.com/joshbouy">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshbouy&show_icons=true&theme=dark&line_height=27" alt="Josh's github stats"/>
