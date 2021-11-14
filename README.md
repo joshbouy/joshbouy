@@ -29,7 +29,6 @@
 - 🤔 I’m looking for help with any web related things.
 - 📫 How to reach me: [email](mailto:jbaylasy@hotmail.com) 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have one fan
 
 #### Peep My Stats 💕  
 
