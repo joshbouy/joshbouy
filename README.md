@@ -1,4 +1,4 @@
-### Hullo, I'm [Josh!](https://joshbouy.github.io/) 👋
+### Hello, I'm [Josh!](https://joshbouy.github.io/) 👋
 
 
 <a href="https://twitter.com/jbaylasy">
