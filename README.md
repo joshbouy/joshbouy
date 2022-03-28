@@ -5,7 +5,7 @@
   <img align="left" alt="Josh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/joshua-baylasy-784830183/">
+<a href="https://www.linkedin.com/in/joshua-baylasy/">
   <img align="left" alt="Josh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate on any platform!
 - 🤔 I’m looking for help with any web related things.
-- 📫 How to reach me: [email](mailto:jbaylasy@hotmail.com) 
+- 📫 How to reach me: [email](mailto:joshua@baylasy.com) 
 - 😄 Pronouns: He/Him
 
 #### Peep My Stats 💕  
